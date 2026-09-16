@@ -22,6 +22,9 @@ Hugging Face Transformers and the DistilBART model.
 - CUDA
 - Gradio
 
+## 🖼️ UI Image
+<img width="1913" height="901" alt="Screenshot 2026-09-16 125555" src="https://github.com/user-attachments/assets/2b970b22-d247-45f0-a028-63a41a200386" />
+
 ## 📁 Project Structure
 
 ```text
