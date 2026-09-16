@@ -1,0 +1,9 @@
+transformers<5.0.0
+diffusers>=0.25.0
+PyYAML
+Pillow>=9.3.0
+gradio
+streamlit>=1.29.0
+accelerate>=0.25.0
+pypdf
+peft>=0.6.0
